@@ -4,13 +4,13 @@
     "description": "A library to interract easily with PN532 and build attack for the CapibaraZero based on Adafruit_PN532",
     "authors":
 	{
-		"name": "Andreock",
+		"name": "Josiah Watkins",
 		"maintainer": true
 	},
 	"repository":
     {
         "type": "git",
-        "url": "https://github.com/CapibaraZero/NFCFramework"
+        "url": "https://github.com/menevia16a/NFCFramework"
     },
     "version": "2.0.1",
     "frameworks": "arduino",
