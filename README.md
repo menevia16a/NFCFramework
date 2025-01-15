@@ -1,6 +1,6 @@
 # CapibaraZero NFC Framework
 
-A library to interract easily with PN532 and build attack for the CapibaraZero based on Adafruit_PN532.
+A library to interract easily with PN532 and build attack for the VoidCipher (enhanced capibaraZero) based on Adafruit_PN532.
 
 It includes also a useful wrapper around the NFC tag to get more information simply using the method in the class.
 
